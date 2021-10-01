@@ -1,0 +1,10 @@
+body {
+	background-color: cornflowerblue;
+	font-family: Arial;
+	color: crimson;
+}
+
+button {
+	color: crimson;
+	border-radius: 5px;
+}
